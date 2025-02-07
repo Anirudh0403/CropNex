@@ -194,3 +194,17 @@ cython_debug/
 
 # Additional entry from the remote
 .codegpt
+
+# Large files and data
+*.csv
+*.pkl
+*.h5
+*.model
+*.zip
+*.rar
+*.tar.gz
+models/trained_models/
+data/raw/
+*.jpg
+*.png
+*.jpeg
