@@ -1,0 +1,10 @@
+streamlit
+pandas
+numpy
+matplotlib
+mysql-connector-python==8.1.0
+scikit-learn
+plotly
+xgboost
+tensorflow
+Pillow
