@@ -9,7 +9,7 @@ import numpy as np
 from sklearn.ensemble import RandomForestClassifier
 import random
 import plotly.graph_objects as go
-import plotly.express as px
+import plotly.express as px 
 from PIL import Image
 from xgboost import XGBClassifier
 from sklearn.ensemble import GradientBoostingClassifier
