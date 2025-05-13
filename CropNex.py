@@ -2,7 +2,7 @@ import streamlit as st
 import pandas as pd
 import base64
 import os
-import matplotlib.pyplot as plt
+import matplotlib.pyplot as plt 
 import mysql.connector
 import hashlib
 import numpy as np
